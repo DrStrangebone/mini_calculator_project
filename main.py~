@@ -37,7 +37,6 @@ if yNo == 'Y':
     print redo
 else:
     print "ERROR - CLOSING."
-#This needs fixing. Will fix later.
 
 
 
